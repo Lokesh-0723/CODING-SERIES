@@ -1,2 +1,2 @@
 # CODING-SERIES
-author - Lokesh Manjhi
+author - Lokesh Manjhi.
